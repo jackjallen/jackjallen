@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University College London, UK.
+subtitle: <a href='https://profiles.ucl.ac.uk/97450-jack-allen/about'> University College London, UK. </a>
 
 profile:
   align: right
