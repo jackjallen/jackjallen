@@ -6,7 +6,7 @@ subtitle: <a href='https://profiles.ucl.ac.uk/97450-jack-allen/about'> Universit
 
 profile:
   align: right
-  image: 
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   # <p>UCL Hawkes Institute</p>
