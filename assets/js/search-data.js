@@ -417,10 +417,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-starting-this-github-website",
+    },{id: "news-starting-this-github-website",
           title: 'Starting this github website.',
           description: "",
           section: "News",handler: () => {
