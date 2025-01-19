@@ -417,7 +417,12 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
+    },{id: "news-starting-this-site",
+          title: 'Starting_this_site',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/starting_this_site/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
