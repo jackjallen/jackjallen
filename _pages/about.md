@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Please note: this site is a work in progress. I'm currently editing a template.**
-
 I’m a Research Fellow at University College London (UCL), working on T2 mapping of the human brain.
 
 I also have an honorary Research Associate contract with Imperial College London (ICL) Department of Brain Sciences, specialising in Magnetic Resonance Imaging (MRI) physics. This follows my full-time position at ICL, where I was based at the Cardiac Magnetic Resonance (CMR) unit of the Royal Brompton Hospital (London, UK).
