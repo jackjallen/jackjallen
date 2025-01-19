@@ -53,7 +53,7 @@
       "area": "",
       "studyType": "",
       "startDate": "",
-      "endDate": "1",
+      "endDate": "",
       "score": "",
       "courses": [""]
     }
@@ -69,21 +69,21 @@
   ],
   "certificates": [
     {
-      "name": "",
+      "name": "certificate 1",
       "date": "",
       "issuer": "",
       "url": "",
       "icon": ""
-    },
+    }
   ],
   "publications": [
     {
-      "name": "",
+      "name": "publication 1",
       "publisher": "",
       "releaseDate": "",
       "url": "",
       "summary": ""
-    },
+    }
   ],
   "skills": [
     {
@@ -92,7 +92,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "MRI",
-        "",
+        ""
       ]
     }
   ],
@@ -110,25 +110,24 @@
   ],
   "interests": [
     {
-      "name": "",
+      "name": "interest 1",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "",
-        "",
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "",
+      "name": "referee 1",
       "icon": "",
       "reference": ""
-    },
-
+    }
   ],
   "projects": [
     {
-      "name": "",
+      "name": "project 1",
       "summary": "",
       "highlights": ["",""],
       "startDate": "",
