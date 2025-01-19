@@ -417,8 +417,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-starting-this-github-website",
-          title: 'Starting this github website.',
+    },{id: "news-started-this-site",
+          title: 'Started_this_site',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/started_this_site/";
