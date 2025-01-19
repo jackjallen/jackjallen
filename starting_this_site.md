@@ -5,7 +5,7 @@ inline: false
 related_posts: false
 ---
 
-Started this website.
+Working on this website, based on the al-folio template.
 
 ---
 
