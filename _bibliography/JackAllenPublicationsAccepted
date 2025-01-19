@@ -1,1 +1,192 @@
 
+
+@inproceedings{allen_blood-focused_2021,
+	title = {Blood-{Focused} {Dynamic} {Inversion} {Times} for {3D} {LGE} {Imaging}: {Initial} {Patient} {Demonstration}},
+	url = {https://cds.ismrm.org/protected/21MPresentations/abstracts/2878.html},
+	booktitle = {Proceedings of the 29th {Annual} {Meeting} of the {International} {Society} of {Magnetic} {Resonance} in {Medicine}},
+	author = {Allen, Jack and Mathew, George and Conway, Miriam and Jenkins, Sophie and Firmin, David and Keegan, Jennifer and Babu-Narayan, Sonya V.},
+	year = {2021},
+	annote = {The following values have no corresponding Zotero field:periodical: Proceedings of the 2021 ISMRM \& SMRT Annual Meeting and Exhibition},
+}
+
+@inproceedings{allen_improved_2020,
+	title = {Improved {Image} {Quality} for {3D} {LGE} {Scar} {Imaging} in {Patients} with {Fast} and {Variable} {Heart} {Rate}: a {Simulation} {Study}},
+	url = {https://archive.ismrm.org/2020/2059.html},
+	booktitle = {Proceedings of the 28th {Annual} {Meeting} of the {International} {Society} of {Magnetic} {Resonance} in {Medicine}},
+	author = {Allen, Jack and Gatehouse, Peter and Wage, Rick and Firmin, David and Keegan, Jennifer},
+	year = {2020},
+}
+
+@inproceedings{camara_myocardial_2016,
+	address = {Cham},
+	title = {Myocardial {Infarction} {Detection} from {Left} {Ventricular} {Shapes} {Using} a {Random} {Forest}},
+	volume = {9534},
+	isbn = {978-3-319-28711-9 978-3-319-28712-6},
+	url = {http://link.springer.com/10.1007/978-3-319-28712-6_20},
+	doi = {10.1007/978-3-319-28712-6_20},
+	abstract = {Understanding myocardial remodelling, and developing tools for its accurate quantiﬁcation, is fundamental for improving the diagnosis and treatment of myocardial infarction patients. Conventional clinical metrics, such as blood pool volume or ejection fraction, are not always distinctive. Here we describe a method for the classiﬁcation of myocardial infarction from 3D diastolic and systolic left ventricle shapes, represented by point sets. Classiﬁcation features included global geometric, shape and thickness descriptors, and a random forest was used for classiﬁcation. Results from cross validation show an accuracy of 92.5\% (leave-one-out) and 91.5\% (5-fold), improving the 87\% obtained with ejection fraction thresholds. These results suggest that reﬁned remodelling metrics provide information beyond standard clinical descriptors.},
+	language = {en},
+	urldate = {2022-03-31},
+	booktitle = {Statistical {Atlases} and {Computational} {Models} of the {Heart}. {Imaging} and {Modelling} {Challenges}},
+	publisher = {Springer International Publishing},
+	author = {Allen, Jack and Zacur, Ernesto and Dall’Armellina, Erica and Lamata, Pablo and Grau, Vicente},
+	editor = {Camara, Oscar and Mansi, Tommaso and Pop, Mihaela and Rhode, Kawal and Sermesant, Maxime and Young, Alistair},
+	year = {2016},
+	note = {Series Title: Lecture Notes in Computer Science},
+	pages = {180--189},
+	file = {Allen2016Myocardial_Infarction_Detection_from_Left_Ventricular_Shapes_Using_a_Random.pdf:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\D8ESHJZ8\\Allen2016Myocardial_Infarction_Detection_from_Left_Ventricular_Shapes_Using_a_Random.pdf:application/pdf},
+}
+
+@article{suinesiaputra_statistical_2018,
+	title = {Statistical {Shape} {Modeling} of the {Left} {Ventricle}: {Myocardial} {Infarct} {Classification} {Challenge}},
+	volume = {22},
+	issn = {2168-2194, 2168-2208},
+	shorttitle = {Statistical {Shape} {Modeling} of the {Left} {Ventricle}},
+	url = {https://ieeexplore.ieee.org/document/7820042/},
+	doi = {10.1109/JBHI.2017.2652449},
+	abstract = {OF EACH PARTICIPATING METHOD. SVM = SUPPORT VECTOR MACHINES, PLS = PARTIAL LEAST SQUARES, RF = RANDOM FOREST, SVR = SUPPORT VECTOR REGRESSORS.},
+	language = {en},
+	number = {2},
+	urldate = {2022-03-31},
+	journal = {IEEE Journal of Biomedical and Health Informatics},
+	author = {Suinesiaputra, Avan and Dhooge, Jan and Duchateau, Nicolas and Ehrhardt, Jan and Frangi, Alejandro F. and Gooya, Ali and Grau, Vicente and Lekadir, Karim and Lu, Allen and Mukhopadhyay, Anirban and Oksuz, Ilkay and Ablin, Pierre and Parajuli, Nripesh and Pennec, Xavier and Pereanez, Marco and Pinto, Catarina and Piras, Paolo and Rohe, Marc-Michel and Rueckert, Daniel and Saring, Dennis and Sermesant, Maxime and Siddiqi, Kaleem and Alba, Xenia and Tabassian, Mahdi and Teresi, Luciano and Tsaftaris, Sotirios A. and Wilms, Matthias and Young, Alistair A. and Zhang, Xingyu and Medrano-Gracia, Pau and Alessandrini, Martino and Allen, Jack and Bai, Wenjia and Cimen, Serkan and Claes, Peter and Cowan, Brett R.},
+	month = mar,
+	year = {2018},
+	pages = {503--515},
+	file = {Suinesiaputra2018Statistical_Shape_Modeling_of_the_Left_Ventricle.pdf:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\2NUTHHW5\\Suinesiaputra2018Statistical_Shape_Modeling_of_the_Left_Ventricle.pdf:application/pdf},
+}
+
+@inproceedings{kukran_mitigation_2022,
+	title = {Mitigation of {Magnetisation} {Transfer} {Effects} using {Off}-{Resonance} {Pulses} in {MR} {Fingerprinting}},
+	url = {https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/2598.html},
+	booktitle = {Proceedings of the 30th {Annual} {Meeting} of the {International} {Society} of {Magnetic} {Resonance} in {Medicine}},
+	author = {Kukran, Simran and Dragonu, Iulius and Statton, Ben and Allen, Jack and Lally, Pete and Quest, Rebecca and Bangerter, Neal and Koh, Dow-Mu and Orton, Matthew and Grech-Sollars, Matthew},
+	year = {2022},
+}
+
+@inproceedings{yang_atrial_2021,
+	title = {Atrial {Scar} {Segmentation} from {3D} {Late} {Gadolinium} {Enhanced} {Datasets}: {Effect} of {Time} {After} {Contrast} {Injection}},
+	url = {https://jackjallen.github.io/publications/2021-Atrial_Scar_Segmentation_from_3D_Late_Gadolinium_Enhanced_Datasets_Effect_of_Time_After_Contrast_Injection.pdf},
+	booktitle = {Society for {Cardiovascular} {Magnetic} {Resonance} ({SCMR}) 24th {Annual} {Meeting}},
+	author = {Yang, Guang and Chen, Jun and Zhang, Heye and Wage, Rick and Allen, Jack and Wong, Tom and Mohiaddin, Raad and Firmin, David and Keegan, Jennifer},
+	year = {2021},
+	note = {Type: inproceedings},
+	file = {SCMR_2021_GY.pptx:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\MMMCRYSK\\SCMR_2021_GY.pptx:application/vnd.openxmlformats-officedocument.presentationml.presentation;Yang2021Atrial_Scar_Segmentation_from_3D_Late_Gadolinium_Enhanced_Datasets.pdf:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\ILD6JHJS\\Yang2021Atrial_Scar_Segmentation_from_3D_Late_Gadolinium_Enhanced_Datasets.pdf:application/pdf},
+}
+
+@inproceedings{allen_dynamic_2021,
+	title = {Dynamic {Inversion} {Times} for {3D} {LGE} {Imaging}, using a {Blood}-{Focused} {Algorithm}: {Initial} {Patient} {Demonstration}},
+	url = {https://jackjallen.github.io/publications/2021BICIberianISMRMpostGradMeetingP1.3_Allen.pdf},
+	booktitle = {Postgraduate meeting of the {British}, {Irish} \& {Iberian} chapters of the {ISMRM}},
+	author = {Allen, Jack and Mathew, George and Conway, Miriam and Jenkins, Sophie and Firmin, David and Keegan, Jennifer and Babu-Narayan, Sonya V. and Gatehouse, Peter},
+	year = {2021},
+}
+
+@inproceedings{allen_estimating_2017,
+	title = {Estimating {MRF} {Time} {Point} {Importance} by {Random} {Forest} {Classification}},
+	url = {https://cds.ismrm.org/protected/Fingerprinting17/program/abstracts/Allen.pdf},
+	booktitle = {{ISMRM} {Workshop} on {Magnetic} {Resonance} {Fingerprinting}},
+	author = {Allen, Jack and Kennedy, James and Jezzard, Peter},
+	year = {2017},
+}
+
+@inproceedings{allen_comparison_2017,
+	title = {A {Comparison} of {Optimised} {Single}-{Shot} {MR} {Fingerprinting} {Pulse} {Sequence} {Designs}.},
+	url = {https://cds.ismrm.org/protected/17MProceedings/PDFfiles/1348.html},
+	booktitle = {Proceedings of the 25th {Annual} {Meeting} of the {International} {Society} of {Magnetic} {Resonance} in {Medicine}},
+	author = {Allen, Jack and Kennedy, James and Jezzard, Peter},
+	year = {2017},
+}
+
+@inproceedings{kukran_magnetisation_2023,
+	title = {Magnetisation {Transfer} effects on {T1} and {T2} values in {MR} {Fingerprinting}},
+	abstract = {Methods A FISP 2D cartesian MRF sequence with and
+without off resonance pulses before every readout was developed in house with
+varying flip angles and repetition times based on schedules reported by Jiang
+et al5. After an adiabatic inversion pulse, a series of FISP
+acquisitions were acquired with a sinusoidal variation of flip angles (FA) and
+repetition times (TR) in a Perlin noise pattern. The FOV was 300 and the acquisition matrix was 128 x 128. 64 lines of k space per image were acquired
+with GRAPPA-2 acceleration. A schematic of the pulse sequence is included in
+Figure 1. A total of 828 contrasts with a slice
+thickness of 5mm were acquired to reconstruct a timeseries of complex images. The
+off-resonance pulse was 180° with a frequency offset of 2000Hz. Data acquisition with and without the
+off-resonance pulses was performed on a Siemens MAGNETOM Prisma 3 Tesla system
+(Siemens Healthineers, Erlangen Germany). Initial investigations were performed
+on the NIST phantom, a crosslinked bovine-serum
+albumin (BSA) MT phantom, and in a single healthy volunteer as part of an
+ethically approved study after obtaining informed consent.
+A dictionary was generated using a single-pool
+extended phase graph (EPG) model developed by Malik et al6 for T1
+values 10-4500ms, T2 values 2-3000ms and B1+ values 0.8 to 1.2. To
+incorporate slice profile effects7-9 the effective imaging flip
+angle was simulated for each prescribed sinc RF pulse and slice selection
+gradient profile to generate fingerprints at 11 discrete points across the 5mm
+imaging slice, which were then summed and normalised for matching. The B1
+was preselected via comparison to a Siemens turbo-flash map. Fingerprints for
+every voxel were extracted and matched to the closest dictionary entry using a maximum
+dot product search, and corresponding T1 and T2 maps were reconstructed.
+Results and Discussion In Figure 2, signal evolutions for single
+voxels acquired with and without off resonance in all three scanning subjects
+are shown. No magnetisation transfer takes place in the liquid NIST phantom
+because only free protons are present. In all other voxels, off-resonance pulses saturate bound protons and areas with significant bound and free proton
+interactions, reducing the signal magnitude as only free protons are measured. This
+also changes the shape of the signal evolution, and leads to different matches
+for normalised fingerprints, as shown in Figure 3. The resulting T1 and T2 maps are shown in Figures
+4 and 5 respectively. In this experiment, applying off resonance pulses
+throughout the acquisition caused the observed T1 to decrease. This behaviour
+was unexpected and opposite to what was observed in our previous experiment4.
+It is also in the opposite direction to changes in T1 observed when MT effects on a fingerprinting acquisition were
+simulated explicitly by Hilbert et al10. T2 values increased when off-resonance pulses were
+applied. this is similar to what was observed when MT effects were simulated explicitly10.
+Conclusion},
+	language = {en},
+	booktitle = {Proceedings of the 31th {Annual} {Meeting} of the {International} {Society} of {Magnetic} {Resonance} in {Medicine}},
+	author = {Kukran, Simran and Dragonu, Iulius and Statton, Ben and Allen, Jack and Lally, Pete and Quest, Rebecca and Bangerter, Neal and Koh, Dow-Mu and Orton, Matthew and Grech, Matthew},
+	year = {2023},
+	file = {Kukran2023Magnetisation_Transfer_effects_on_T1_and_T2_values_in_MR_Fingerprinting.PDF:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\SJP45ZNA\\Kukran2023Magnetisation_Transfer_effects_on_T1_and_T2_values_in_MR_Fingerprinting.PDF:application/pdf},
+}
+
+@phdthesis{allen_optimisation_2019,
+	title = {An {Optimisation} {Framework} for {Magnetic} {Resonance} {Fingerprinting}},
+	language = {en},
+	school = {University of Oxford},
+	author = {Allen, Jack},
+	year = {2019},
+	file = {Allen - An Optimisation Framework for Magnetic Resonance F.pdf:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\L2L5BEL6\\Allen - An Optimisation Framework for Magnetic Resonance F.pdf:application/pdf},
+}
+
+@article{allen_fully-modelled_2023,
+	title = {Fully-modelled blood-focused variable inversion times for {3D} late gadolinium-enhanced imaging},
+	volume = {98},
+	issn = {0730-725X},
+	url = {https://www.sciencedirect.com/science/article/pii/S0730725X22002296},
+	doi = {10.1016/j.mri.2022.12.014},
+	abstract = {Purpose
+Variable heart rate during single-cycle inversion-recovery Late Gadolinium-Enhanced (LGE) scanning degrades image quality, which can be mitigated using Variable Inversion Times (VTIs) in real-time response to R-R interval changes. We investigate in vivo and in simulations an extension of a single-cycle VTI method previously applied in 3D LGE imaging, that now fully models the longitudinal magnetisation (fmVTI).
+Methods
+The VTI and fmVTI methods were used to perform 3D LGE scans for 28 3D LGE patients, with qualitative image quality scores assigned for left atrial wall clarity and total ghosting. Accompanying simulations of numerical phantom images were assessed in terms of ghosting of normal myocardium, blood, and myocardial scar.
+Results
+The numerical simulations for fmVTI showed a significant decrease in blood ghosting (VTI: 410 ± 710, fmVTI: 68 ± 40, p {\textless} 0.0005) and scar ghosting (VTI: 830 ± 1300, fmVTI: 510 ± 730, p {\textless} 0.02). Despite this, there was no significant change in qualitative image quality scores, either for left atrial wall clarity (VTI: 2.0 ± 1.0, fmVTI: 1.8 ± 1.0, p {\textgreater} 0.1) or for total ghosting (VTI: 1.9 ± 1.0, fmVTI: 2.0 ± 1.0, p {\textgreater} 0.7).
+Conclusions
+Simulations indicated reduced ghosting with the fmVTI method, due to reduced Mz variability in the blood signal. However, other sources of phase-encode ghosting and blurring appeared to dominate and obscure this finding in the patient studies available.},
+	urldate = {2024-02-12},
+	journal = {Magnetic Resonance Imaging},
+	author = {Allen, Jack J. and Keegan, Jennifer and Mathew, George and Conway, Miriam and Jenkins, Sophie and Pennell, Dudley J. and Nielles-Vallespin, Sonia and Gatehouse, Peter and Babu-Narayan, Sonya V.},
+	month = may,
+	year = {2023},
+	keywords = {Atrial fibrillation, Myocardium, Arrhythmia, Cardiac, Late gadolinium-enhanced (LGE) imaging, Variable inversion time (VTI)},
+	pages = {44--54},
+}
+
+@phdthesis{allen_optimisation_2019-1,
+	type = {http://purl.org/dc/dcmitype/{Text}},
+	title = {An optimisation framework for magnetic resonance fingerprinting},
+	url = {https://ora.ox.ac.uk/objects/uuid:14c92874-7b00-4f79-abce-87b05f9cb4d4},
+	abstract = {{\textless}p{\textgreater}Magnetic Resonance Fingerprinting (MRF) is an efficient quantitative MRI technique for simultaneously mapping multiple tissue or system properties. This thesis presents a framework for optimising the acquisition parameter schedules of a Spin-Echo (SE) Echo Planar Imaging (EPI) MRF pulse sequence, with a view to an application to tracking oedema in acute stroke.{\textless}/p{\textgreater} {\textless}p{\textgreater}Reference quantitative MRI methods were implemented and used for validations of the SE EPI MRF acquisitions. For this purpose a custom phantom was built with relaxation parameters spanning those typical of in vivo grey and white matter. Inversion recovery and spin-echo sequences were used to provide gold standard maps of T$_{\textrm{1}}$ and T$_{\textrm{2}}$, respectively. A 3D DREAM protocol was used for B$_{\textrm{1}}$$^{\textrm{+}}$ mapping and gradient-echo sequences provided B$_{\textrm{0}}$ off-resonance measurements. Balanced SSFP and FISP MRF sequences were also implemented, with spiral readouts and acquisition parameters similar to those of literature examples.{\textless}/p{\textgreater} {\textless}p{\textgreater}The framework was designed to optimise the SE EPI MRF excitation flip angles, repetition times and the temporal positioning of inversion pulses. Many of the optimisation parameters were flexible and user-specified, such as the targeted T$_{\textrm{1}}$ and T$_{\textrm{2}}$ and the evaluation metric. Single-slice and 10-slice schedules were optimised using fmincon and genetic algorithms from MATLAB toolboxes and custom cost functions based on Monte Carlo error simulations.{\textless}/p{\textgreater} {\textless}p{\textgreater}Ten-slice SE EPI MRF schedules requiring 8 seconds and 20 seconds per slice were compared experimentally, with the longer schedules providing the better T$_{\textrm{1}}$ and T$_{\textrm{2}}$ accuracy and precision. However, both sets of schedules were unable to fit B$_{\textrm{1}}$$^{\textrm{+}}$ accurately, necessitating the use of a separately acquired B$_{\textrm{1}}$$^{\textrm{+}}$ map to correct the dictionary flip angles. Experimental phantom results with B$_{\textrm{1}}$$^{\textrm{+}}$ correction demonstrated agreement with the theoretical accuracy improvements predicted for the optimised schedules but undesired reductions in precision were observed. Those phantom results suggested that the fmincon schedule marginally outperformed the corresponding genetic algorithm schedule, showing maximum biases of 16.5\% for T$_{\textrm{1}}$ and 4.6\% for T$_{\textrm{2}}$ and maximum spreads of 16.3\% for T$_{\textrm{1}}$ and 14.3\% for T$_{\textrm{2}}$. The FISP MRF sequence provided the best all-round performance.{\textless}/p{\textgreater}},
+	language = {en},
+	urldate = {2024-02-01},
+	school = {University of Oxford},
+	author = {Allen, J.},
+	year = {2019},
+	file = {Full Text PDF:C\:\\Users\\User\\Documents\\papers\\Zotero\\storage\\AT3D7L9H\\Allen - 2019 - An optimisation framework for magnetic resonance f.pdf:application/pdf},
+}
