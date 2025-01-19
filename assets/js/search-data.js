@@ -417,12 +417,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-starting-this-site",
-          title: 'Starting_this_site',
+    },{id: "news-working-on-this-website-based-on-the-al-folio-template",
+          title: 'Working on this website, based on the al-folio template.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/starting_this_site/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
