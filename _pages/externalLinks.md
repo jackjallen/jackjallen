@@ -1,7 +1,7 @@
 ---
 layout: page
 title: external links
-permalink: /
+permalink: /externalLinks/
 subtitle: 
 
 social: true # includes social icons at the bottom of the page
