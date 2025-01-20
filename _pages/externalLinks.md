@@ -3,6 +3,7 @@ layout: page
 title: external links
 permalink: /externalLinks/
 subtitle: 
+navorder: 7
 
 social: true # includes social icons at the bottom of the page
 ---
