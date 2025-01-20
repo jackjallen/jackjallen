@@ -8,15 +8,8 @@ navorder: 7
 social: true # includes social icons at the bottom of the page
 ---
 
-# External links:
 
-## My pages and profiles:
-
-- Google Scholar profile
-
-- LinkedIn profile
-
-- PhD programme
+# My pages and profiles:
 
 - quantitative MRI resources: qmri.net
 
@@ -28,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 - UCL profile: https://profiles.ucl.ac.uk/97450-jack-allen
 
-## Other resources:
+# Other resources:
 
 - MRI simulator by Markus Nilsson: https://github.com/markus-nilsson/mri-simulator
 
