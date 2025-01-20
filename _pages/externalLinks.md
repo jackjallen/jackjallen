@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: 
 title: external links
 permalink: /
 subtitle: 
