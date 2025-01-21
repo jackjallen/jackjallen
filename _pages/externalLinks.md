@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-# My pages and profiles:
+My pages and profiles:
 
 - quantitative MRI resources: qmri.net
 
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 - UCL profile: https://profiles.ucl.ac.uk/97450-jack-allen
 
-# Other resources:
+Other resources:
 
 - MRI simulator by Markus Nilsson: https://github.com/markus-nilsson/mri-simulator
 
