@@ -4,7 +4,7 @@ title: external links
 permalink: /externalLinks/
 subtitle: 
 nav: true
-navorder: 7
+nav_order: 7
 
 social: true # includes social icons at the bottom of the page
 ---
