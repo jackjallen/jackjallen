@@ -17,9 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Research Fellow at University College London (UCL), working on T2 mapping of the human brain.
+I’m a medical imaging researcher with an interest in quantitative tools to improve healthcare.
 
-I also have an honorary Research Associate contract with Imperial College London (ICL) Department of Brain Sciences, specialising in Magnetic Resonance Imaging (MRI) physics. This follows my full-time position at ICL, where I was based at the Cardiac Magnetic Resonance (CMR) unit of the Royal Brompton Hospital (London, UK).
+Currently, I'm a Research Fellow at University College London (UCL, London, UK), working on MRI T2 mapping of the human brain.
+Before this, I worked on Cardiac MRI research at the [Royal Brompton Hospital](https://www.rbht.nhs.uk/our-services/heart/heart-assessment/cardiovascular-magnetic-resonance-cmr-unit) (London, UK).
 
 My interests include quantitative MRI parameter mapping and image shape analysis, as well as the interplay between medical imaging and artistic design.
 
