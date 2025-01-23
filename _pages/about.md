@@ -17,17 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a medical imaging researcher with an interest in quantitative tools to improve healthcare.
+I’m a medical imaging researcher with an interest in quantitative tools to improve healthcare. I'm also interested in the interplay between medical imaging and artistic design.
 
-Currently, I'm a Research Fellow at University College London (UCL, London, UK), working on MRI T2 mapping of the human brain.
-Before this, I worked on Cardiac MRI research at the [Royal Brompton Hospital](https://www.rbht.nhs.uk/our-services/heart/heart-assessment/cardiovascular-magnetic-resonance-cmr-unit) (London, UK).
-
-My interests include quantitative MRI parameter mapping and image shape analysis, as well as the interplay between medical imaging and artistic design.
-
-I have studied Physics (MSci) at King’s College London and Biomedical Imaging (DPhil) at the University of Oxford.
+Currently, I'm a Research Fellow at [University College London](https://profiles.ucl.ac.uk/97450-jack-allen), working on MRI T2 mapping of the human brain. Before this, I worked on cardiac MRI research at the [Royal Brompton Hospital](https://www.rbht.nhs.uk/our-services/heart/heart-assessment/cardiovascular-magnetic-resonance-cmr-unit). I have also studied Physics (MSci) at King’s College London and Biomedical Imaging (DPhil) at the University of Oxford.
 
 <!--
-
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
