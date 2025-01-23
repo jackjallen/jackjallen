@@ -8,17 +8,13 @@
     "url": "jackjallen.github.io",
     "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": " Norwich, UK & London, UK.",
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "jjallen01",
+        "url": "https://uk.linkedin.com/in/jjallen01"
       }
     ]
   },
@@ -26,74 +22,18 @@
     {
       "name": "UCL Hawkes Institute, University College London",
       "position": "Research Fellow",
-      "url": "",
+      "url": "https://profiles.ucl.ac.uk/97450-jack-allen",
       "startDate": "2023-10-10",
       "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "",
-      "location": "",
-      "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "certificate 1",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "publication 1",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Medical Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MRI",
-        ""
-      ]
+      "institution": "University of Oxford",
+      "location": "Oxford, UK",
+      "studyType": "DPhil in Biomedical Imaging",
+      "startDate": "2014",
+      "endDate": "2019",
     }
   ],
   "languages": [
@@ -101,38 +41,6 @@
       "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
-    {
-      "language": "",
-      "fluency": "",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "interest 1",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "referee 1",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "project 1",
-      "summary": "",
-      "highlights": ["",""],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }
