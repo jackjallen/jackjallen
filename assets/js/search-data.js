@@ -23,7 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-working-on-this-website-based-on-the-al-folio-template",
+        },{id: "news-started-role-as-research-fellow-at-university-college-london",
+          title: 'Started role as Research Fellow at University College London.',
+          description: "",
+          section: "News",},{id: "news-working-on-this-website-based-on-the-al-folio-template",
           title: 'Working on this website, based on the al-folio template.',
           description: "",
           section: "News",},{id: "projects-project-1",
