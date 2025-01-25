@@ -58,6 +58,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=Jo57CzQAAAAJ&hl", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://profiles.ucl.ac.uk/97450-jack-allen/about", "_blank");
+        },
+      },{
+        id: 'social-url',
+        title: 'Url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
