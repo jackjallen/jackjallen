@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Quantitative Imaging Group, UCL Hawkes Institute, <a href='https://profiles.ucl.ac.uk/97450-jack-allen/about'> University College London, UK. </a>
 news: true # includes a list of news items

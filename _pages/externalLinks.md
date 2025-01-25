@@ -1,6 +1,6 @@
 ---
 layout: page
-title: external links
+title: External Links
 permalink: /externalLinks/
 subtitle: 
 nav: false
