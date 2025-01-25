@@ -5,7 +5,7 @@ inline: true
 related_posts: true
 ---
 
-Working on this website, based on the [al-folio template](https://github.com/alshedivat/al-folio).
+Recently started this website, based on the [al-folio template](https://github.com/alshedivat/al-folio).
 
 
 
