@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://profiles.ucl.ac.uk/97450-jack-allen/about'> Quantitative Imaging Group, UCL Hawkes Institute, University College London, UK. </a>
+subtitle: Quantitative Imaging Group, UCL Hawkes Institute, <a href='https://profiles.ucl.ac.uk/97450-jack-allen/about'> University College London, UK. </a>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
