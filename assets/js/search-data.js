@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-started-role-as-research-fellow-at-university-college-london",
-          title: 'Started role as Research Fellow at University College London.',
+        },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
+          title: 'Started my role as a Research Fellow at University College London.',
           description: "",
-          section: "News",},{id: "news-working-on-this-website-based-on-the-al-folio-template",
-          title: 'Working on this website, based on the al-folio template.',
+          section: "News",},{id: "news-recently-started-this-website-based-on-the-al-folio-template",
+          title: 'Recently started this website, based on the al-folio template.',
           description: "",
           section: "News",},{
         id: 'social-email',
