@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-news",
-          title: "news",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
           },
         },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
           title: 'Started my role as a Research Fellow at University College London.',
