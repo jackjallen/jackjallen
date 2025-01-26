@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-01-26-ISMRM-2020-abstract/";
+          window.location.href = "/blog/2025/2020-08-05-ISMRM-2020-abstract/";
         
       },
     },{id: "post-phd-thesis",
