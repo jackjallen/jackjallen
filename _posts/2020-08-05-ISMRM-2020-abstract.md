@@ -2,9 +2,9 @@
 layout: post
 title: ISMRM 2020 abstract
 date: 2020-08-05
-description: Improved Image Quality for 3D LGE Scar Imaging in Patients with Fast and Variable Heart Rate: a Simulation Study.
-tags: PhD DPhil Thesis MRF T2 T2
-categories: MRF T1 T2
+description: Improved image quality for 3D LGE scar imaging in patients with fast and variable heart rate: a simulation study.
+tags: 3D LGE simulation abstract ISMRM2020
+categories: 3D LGE simulation abstract ISMRM2020
 ---
 
 My colleagues and I submitted research to the 2020 annual meeting of the International Society of Magnetic Resonance in Medicine (ISMRM):
