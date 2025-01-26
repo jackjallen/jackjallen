@@ -7,7 +7,7 @@ tags: PhD DPhil Thesis MRF T2 T2
 categories: MRF T1 T2
 ---
 
-In the summer of 2019, I finished my PhD in Biomedical Imaging at the University of Oxford.  I worked in the Physics group at the Centre for Functional MRI of the Brain (FMRIB), aiming to develop fast and reliable quantitative MRI-based in vivo measurements of magnetisation relaxation parameters T1 and T2.
+In the summer of 2019, I finished my PhD in Biomedical Imaging at the University of Oxford.  I worked in the Physics group at the Centre for Functional MRI of the Brain (FMRIB), aiming to develop fast and reliable quantitative MRI-based *in vivo* measurements of magnetisation relaxation parameters T1 and T2.
 
 Thesis title: “An Optimisation Framework for Magnetic Resonance Fingerprinting“.
 
