@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
+        },{id: "post-2019-phd-thesis",
+      
+        title: "2019 PhD Thesis",
+      
+      description: "An Optimisation Framework for Magnetic Resonance Fingerprinting",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/PhD-Thesis/";
+        
+      },
+    },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
           title: 'Started my role as a Research Fellow at University College London.',
           description: "",
           section: "News",},{id: "news-recently-started-this-website-based-on-the-al-folio-template",
