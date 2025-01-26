@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2019 PhD Thesis
-date: 2025-01-26
-description: "An Optimisation Framework for Magnetic Resonance Fingerprinting"
+date: 2019-11-08
+description: An Optimisation Framework for Magnetic Resonance Fingerprinting.
 tags: PhD DPhil Thesis MRF T2 T2
 categories: MRF T1 T2
 ---
