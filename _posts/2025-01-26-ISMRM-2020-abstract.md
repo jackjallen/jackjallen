@@ -21,7 +21,6 @@ Our summary of the work is provided below:
 
 The figure below shows an example of each method for a numerical phantom simulation, showing improved image clarity for the dynamic TI methods versus using a fixed TI. The ring represents a cross-section of myocardium around the blood pool. The small bright region represents myocardial scarring. The three images highlight that the new approach focuses on reducing image ghosting from the blood signal. Image intensity is shown in arbitrary units.
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ISMRM2020abstract.png" class="img-fluid rounded z-depth-1" %}
