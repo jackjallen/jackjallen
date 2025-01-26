@@ -9,9 +9,13 @@ categories: 3D LGE simulation abstract ISMRM2020
 
 My colleagues and I submitted research to the 2020 annual meeting of the International Society of Magnetic Resonance in Medicine (ISMRM):
 
+Abstract title:
 Improved Image Quality for 3D LGE Scar Imaging in Patients with Fast and Variable Heart Rate: a Simulation Study.
-Jack Allen1,2, Peter Gatehouse1,2, Rick Wage1, David Firmin1,2, and Jennifer Keegan1,2
-1Cardiovascular Magnetic Resonance Unit, Royal Brompton and Harefield NHS Trust, London, United Kingdom, 2National Heart and Lung Institute, Imperial College London, London, United Kingdom
+
+Authors:
+Jack Allen[1,2], Peter Gatehouse[1,2], Rick Wage[1], David Firmin[1,2], and Jennifer Keegan[1,2].
+1: Cardiovascular Magnetic Resonance Unit, Royal Brompton and Harefield NHS Trust, London, United Kingdom,
+2: National Heart and Lung Institute, Imperial College London, London, United Kingdom
 
 We used numerical phantom simulations to compare three methods for choosing the Inversion Times (TIs) of Late Gadolinium-Enhanced (LGE) scans for patients with irregular heart rates.
 
