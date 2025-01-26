@@ -22,5 +22,5 @@ The document is available online via this [link](https://ora.ox.ac.uk/objects/uu
     </div>
 </div>
 <div class="caption">
-    Example *in vivo* T1 (left) and T2 (right) maps from our Spin-Echo EPI MRF sequence.
+    Example <i>in vivo</i> T1 (left) and T2 (right) maps from our Spin-Echo EPI MRF sequence.
 </div>
