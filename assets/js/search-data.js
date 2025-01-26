@@ -45,11 +45,11 @@ ninja.data = [{
       
         title: "2019 PhD Thesis",
       
-      description: "An Optimisation Framework for Magnetic Resonance Fingerprinting",
+      description: "An Optimisation Framework for Magnetic Resonance Fingerprinting.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/PhD-Thesis/";
+          window.location.href = "/blog/2019/PhD-Thesis/";
         
       },
     },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
