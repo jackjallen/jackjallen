@@ -26,9 +26,6 @@ ninja.data = [{
         },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
           title: 'Started my role as a Research Fellow at University College London.',
           description: "",
-          section: "News",},{id: "news-recently-started-this-website-based-on-the-al-folio-template",
-          title: 'Recently started this website, based on the al-folio template.',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'Email',
