@@ -41,9 +41,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/2025-01-26-ISMRM-2020-abstract/";
         
       },
-    },{id: "post-2019-phd-thesis",
+    },{id: "post-phd-thesis",
       
-        title: "2019 PhD Thesis",
+        title: "PhD Thesis",
       
       description: "An Optimisation Framework for Magnetic Resonance Fingerprinting.",
       section: "Posts",
