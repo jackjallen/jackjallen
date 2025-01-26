@@ -2,12 +2,12 @@
 layout: post
 title: PhD Thesis
 date: 2019-11-08
-description: An Optimisation Framework for Magnetic Resonance Fingerprinting.
+description: An optimisation framework for Magnetic Resonance Fingerprinting (MRF).
 tags: PhD DPhil Thesis MRF T2 T2
 categories: MRF T1 T2
 ---
 
-In the summer of 2019, I finished my PhD in Biomedical Imaging at the University of Oxford.  I worked in the Physics group at the Centre for Functional MRI of the Brain (FMRIB), aiming to develop fast and reliable quantitative MRI-based in vivo measurements of magnetisation relaxation parameters T1 and T2.
+In the summer of 2019, I finished my PhD in Biomedical Imaging at the University of Oxford.  I worked in the physics group at the Centre for Functional MRI of the Brain (FMRIB), aiming to develop fast and reliable quantitative MRI-based in vivo measurements of magnetisation relaxation parameters T1 and T2.
 
 Thesis title: “An Optimisation Framework for Magnetic Resonance Fingerprinting“.
 
@@ -22,5 +22,5 @@ The document is available online via this [link](https://ora.ox.ac.uk/objects/uu
     </div>
 </div>
 <div class="caption">
-    Example in vivo T1 (left) and T2 (right) maps from our Spin-Echo EPI MRF sequence.
+    Example in vivo T1 (left) and T2 (right) maps from our Spin-Echo (SE) EPI MRF sequence.
 </div>
