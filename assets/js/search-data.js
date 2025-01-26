@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-2019-phd-thesis",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-01-26-ISMRM-2020-abstract/";
+        
+      },
+    },{id: "post-2019-phd-thesis",
       
         title: "2019 PhD Thesis",
       
