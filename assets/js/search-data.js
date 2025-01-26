@@ -45,7 +45,7 @@ ninja.data = [{
       
         title: "PhD Thesis",
       
-      description: "An Optimisation Framework for Magnetic Resonance Fingerprinting.",
+      description: "An optimisation framework for Magnetic Resonance Fingerprinting (MRF).",
       section: "Posts",
       handler: () => {
         
