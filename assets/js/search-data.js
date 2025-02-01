@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-started-my-role-as-a-research-fellow-at-university-college-london",
           title: 'Started my role as a Research Fellow at University College London.',
           description: "",
+          section: "News",},{id: "news-ismrm-2025-abstract-accepted-title-comparing-accelerated-and-conventional-methods-for-brain-t2-mapping-a-quantitative-nist-ismrm-phantom-study",
+          title: 'ISMRM 2025 abstract accepted. Title: Comparing accelerated and conventional methods for brain T2...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'Email',
